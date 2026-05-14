@@ -32,3 +32,21 @@ Building scalable frontend architectures, high-performance web applications, and
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,nodejs,express,mongodb,mysql,postgres,redux,tailwind,html,css,sass,jest,webpack,vite,babel,git,github,postman" />
 </p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
